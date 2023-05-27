@@ -9,8 +9,25 @@ This is a web-based application for touch typing. Touch typing is typing without
 3. Measuring the number of keys pressed in a 5 min window of practice
 4. Measuring the accuracy %
 
-### Instructions  how to intall project 
+### Installation
 
+Follow these steps to install and run the project:
+
+1. Clone the repository:    
+    git clone https://github.com/your-username/your-project.git
+    
+2. Navigate to the project directory: 
+     cd your-project
+
+3. Install the dependencies:
+    npm install
+      
+4. Start the development server:
+     npm start
+ 
+5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to view the project.
+
+---
 
 In the project directory, you can run:
 
