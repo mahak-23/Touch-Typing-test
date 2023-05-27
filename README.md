@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Touch Typing App [Live](https://touch-typing-testing.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web-based application for touch typing. Touch typing is typing without looking at the keyboard. The fundamental idea is that each finger is given its own section of the keyboard and your fingers learn the location of the keyboard through practising regularly and gaining muscle memory to eventually build up speed whilst typing. While touch typing is a practice of keys, words & sentences. For this, we’ll focus only on keys practice & only on the 8 keys of the keyboard (asdfjkl;)
 
-## Available Scripts
+
+### Features
+1. A typing box wherein the user is typing keys
+2. Visually the user should be able to see the keys they’re supposed to type next
+3. Measuring the number of keys pressed in a 5 min window of practice
+4. Measuring the accuracy %
+
+### Instructions  how to intall project 
+
 
 In the project directory, you can run:
 
