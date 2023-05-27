@@ -3,7 +3,7 @@ import './App.css'
 import Logo from './logo-typing.jpg'
 
 const SECONDS_PER_MINUTE = 60;
-const NUM_OF_WORDS = 200;
+const NUM_OF_WORDS = 540;
 const COUNTDOWN_DURATION = 300;
 
 function App() {
